@@ -1,3 +1,9 @@
+/**
+    The Composite Pattern describes a group of objects that can be treated in the same
+    way a single instance of an object may be. Implementing this pattern allows you to treat
+    both individual objects and compositions in a uniform manner.
+ */
+
 var CatalogItem = require('./CatalogItem');
 var CatalogGroup = require('./CatalogGroup');
 
